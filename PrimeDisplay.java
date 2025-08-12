@@ -1,3 +1,5 @@
+package BasicAndLoops;
+
 import java.util.Scanner;
 
 public class PrimeDisplay {
